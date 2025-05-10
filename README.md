@@ -64,7 +64,7 @@ Welcome to the CISC3003 Project Assignment repository! This guide will help you 
 ---
 
 ## 📧 Support
-If you encounter any issues, feel free to contact the project maintainer at `your-email@example.com`.
+If you encounter any issues, feel free to contact the project maintainer at `dc22669@umac.mo`.
 
 ---
 
