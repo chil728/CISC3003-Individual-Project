@@ -52,8 +52,8 @@ Welcome to the CISC3003 Project Assignment repository! This guide will help you 
 ---
 
 ## 📄 Project Structure
-- **Part A**: Contains the initial setup and foundational code.
-- **Part B**: Includes additional features and enhancements.
+- **Part A**: Contains the shopping cart and checkout system.
+- **Part B**: Includes FIVE practices mainly focused on login / sign up related system.
 
 ---
 
@@ -64,7 +64,7 @@ Welcome to the CISC3003 Project Assignment repository! This guide will help you 
 ---
 
 ## 📧 Support
-If you encounter any issues, feel free to contact the project maintainer at `dc22669@umac.mo`.
+If you encounter any issues, feel free to contact the project maintainer at `your-email@example.com`.
 
 ---
 
